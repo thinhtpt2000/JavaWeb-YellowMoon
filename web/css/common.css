@@ -1,0 +1,8 @@
+.navbar-brand,
+.shop-name {
+    font-family: 'Lobster', cursive;
+}
+
+.nav-item.active {
+    font-weight: 700;
+}
